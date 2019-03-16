@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Evinco Canada Group Ltd.",
     "description": "",
-    "home_page_url": "https://github.com/mhdalm/evincogroup",
-    "feed_url": "https://github.com/mhdalm/evincogroup/feed.json",
+    "home_page_url": "http://evincogroup.ca",
+    "feed_url": "http://evincogroup.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mehdi ALM"
