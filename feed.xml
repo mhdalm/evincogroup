@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Evinco Canada Group Ltd.</title>
-    <link href="http://evincogroup.ca/feed.xml" rel="self" />
-    <link href="http://evincogroup.ca" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <title>Evinco Canada Group</title>
+    <link href="https://mhdalm.github.io/evincogroup/feed.xml" rel="self" />
+    <link href="https://mhdalm.github.io/evincogroup" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Mehdi ALM</name>
+        <name>Mahdi A</name>
     </author>
-    <id>http://evincogroup.ca</id>
+    <id>https://mhdalm.github.io/evincogroup</id>
 
 </feed>
